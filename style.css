@@ -1,4 +1,9 @@
-[[data-component="slideshow"] .slide {
+body {
+  font-family: 'Roboto', Helvetica, Arial, sans-serif;
+  background: #0000;
+}
+
+[data-component="slideshow"] .slide {
 	display: none;
   text-align: center;
 }
